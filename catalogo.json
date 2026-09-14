@@ -1,0 +1,24 @@
+{
+    "series": [
+        {
+            "titulo": "Colillo",
+            "descripcion": "Esta es la vida de Colillo y su amigo Matito!",
+            "portada": "https://github.com/DonPaloPuppeteer/PaloPlay/blob/main/colillo.jpg?raw=true",
+            "episodios": [
+                {
+                    "titulo": "Episodio 1",
+                    "video": "https://archive.org/download/la-consola-episodio-1-temporada-1/La%20Consola%20Episodio%201%20Temporada%201.mp4"
+                },
+                {
+                    "titulo": "Episodio 2",
+                    "video": "https://archive.org/download/el-senor-de-la-capucha-morada-episodio-2-temporada-1/El%20Se%C3%B1or%20de%20la%20Capucha%20Morada%20Episodio%202%20Temporada%201.mp4"
+                },
+                {
+                    "titulo": "Episodio 3",
+                    "video": "https://archive.org/download/el-zorro-episodio-3-temporada-1/El%20Zorro%20Episodio%203%20Temporada%201.mp4"
+                }
+            ]
+        }
+    ],
+    "musica": []
+}
