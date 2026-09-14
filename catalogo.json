@@ -16,9 +16,26 @@
                 {
                     "titulo": "Episodio 3",
                     "video": "https://archive.org/download/el-zorro-episodio-3-temporada-1/El%20Zorro%20Episodio%203%20Temporada%201.mp4"
+                },
+                {
+                    "titulo": "Episodio 4",
+                    "video": "https://archive.org/download/la-tortuga-episodio-4-temporada-1/La%20Tortuga%20Episodio%204%20Temporada%201.mp4"
+                },
+                {
+                    "titulo": "Episodio 5",
+                    "video": "https://archive.org/download/la-cancion-episodio-5-temporada-1/La%20Cancion%20Episodio%205%20Temporada%201.mp4"
+                },
+                {
+                    "titulo": "Episodio 6",
+                    "video": "https://archive.org/download/espacio-episodio-6-temporada-1/Espacio%20Episodio%206%20Temporada%201.mp4"
+                },
+                {
+                    "titulo": "Episodio 7",
+                    "video": "https://archive.org/download/la-magia-episodio-7-temporada-1/La%20Magia%20Episodio%207%20Temporada%201.mp4"
                 }
             ]
         }
     ],
     "musica": []
+}
 }
