@@ -38,7 +38,7 @@
         {
             "titulo": "Pingüinos",
             "descripcion": "Una serie sobre unos pingüinos y sus aventuras.",
-            "portada": "",
+            "portada": "https://github.com/DonPaloPuppeteer/PaloPlay/blob/main/pinguinos.jpg?raw=true",
             "episodios": [
                 {
                     "titulo": "Episodio 1",
