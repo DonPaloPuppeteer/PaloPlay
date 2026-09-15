@@ -34,7 +34,18 @@
                     "video": "https://archive.org/download/la-magia-episodio-7-temporada-1/La%20Magia%20Episodio%207%20Temporada%201.mp4"
                 }
             ]
+        },
+        {
+            "titulo": "Pingüinos",
+            "descripcion": "Una serie sobre unos pingüinos y sus aventuras.",
+            "portada": "",
+            "episodios": [
+                {
+                    "titulo": "Episodio 1",
+                    "video": "https://archive.org/details/pinguinoslol/p1.mp4"
+                }
+            ]
         }
     ],
     "musica": []
-    }
+}
