@@ -45,7 +45,54 @@
                     "video": "https://archive.org/download/pinguinoslol/p1.mp4"
                 }
             ]
+        },
+        {
+            "titulo": "Las Locas Aventuras De Sammy y Pichuca",
+            "descripcion": "Estas son las aventuras de Sammy y Pichuca en cuarto radiante.",
+            "portada": "https://raw.githubusercontent.com/DonPaloPuppeteer/PaloPlay/refs/heads/main/54%20sin%20t%C3%ADtulo_20260915170518.jpg",
+            "episodios": [
+                {
+                    "titulo": "T1 E1 - Negocio Hermoso",
+                    "video": "https://archive.org/download/episodio-1-temporada-1-negocio-hermoso/Episodio%201%20Temporada%201%20Negocio%20Hermoso.mp4"
+                },
+                {
+                    "titulo": "T1 E2 - El Único Enemigo Tuyo Aquí Eres Tú",
+                    "video": "https://archive.org/download/episodio-2-temporada-1-el-unico-enemigo-tuyo-aqui-eres-tu/Episodio%202%20Temporada%201%20El%20Unico%20Enemigo%20Tuyo%20Aqui%20Eres%20Tu.mp4"
+                },
+                {
+                    "titulo": "T1 E3 - Dulce o Apocalipsis",
+                    "video": "https://archive.org/download/episodio-3-temporada-1-dulce-o-apocalipsis/Episodio%203%20Temporada%201%20Dulce%20o%20Apocalipsis.mp4"
+                },
+                {
+                    "titulo": "T1 E4 - Letreros",
+                    "video": "https://archive.org/download/episodio-4-temporada-1-letreros/Episodio%204%20Temporada%201%20Letreros.mp4"
+                },
+                {
+                    "titulo": "T1 E5 - Una Navidad de Baile",
+                    "video": "https://archive.org/download/episodio-5-temporada-1-una-navidad-de-baile/Episodio%205%20Temporada%201%20Una%20Navidad%20de%20Baile.mp4"
+                },
+                {
+                    "titulo": "T1 E6 - Venta de Garage",
+                    "video": "https://archive.org/download/episodio-6-temporada-1-venta-de-garage/Episodio%206%20Temporada%201%20Venta%20de%20Garage.mp4"
+                },
+                {
+                    "titulo": "T1 E7 - El Plan De Juguetelia",
+                    "video": "https://archive.org/download/episodio-7-temporada-1-el-plan-de-juguetelia/Episodio%207%20Temporada%201%20El%20Plan%20De%20Juguetelia.mp4"
+                },
+                {
+                    "titulo": "T1 E8 - La Normalidad es Aburrida",
+                    "video": "https://archive.org/download/episodio-8-temporada-1-la-normalidad-es-aburrida/Episodio%208%20Temporada%201%20LA%20NORMALIDAD%20ES%20ABURRIDA.mp4"
+                },
+                {
+                    "titulo": "T2 E1 - La Fan Loca",
+                    "video": "https://archive.org/download/episodio-1-temporada-2-la-fan-loca/Episodio%201%20Temporada%202%20La%20Fan%20Loca.mp4"
+                },
+                {
+                    "titulo": "T2 E2 - El Robotizado",
+                    "video": "https://archive.org/download/episodio-2-temporada-2-el-robotizado/Episodio%202%20Temporada%202%20El%20Robotizado.mp4"
+                }
+            ]
         }
     ],
     "musica": []
-}
+                }
