@@ -107,33 +107,33 @@
             "canciones": [
                 {
                     "id": "colillo1",
-                    "titulo": "Colillo OST 1",
-                    "audio": "PON_EL_LINK_AQUI"
+                    "titulo": "Colillo OST - Inicio",
+                    "audio": "https://archive.org/download/ColilloOST/colillo%20inicio.mp3"
                 },
                 {
                     "id": "colillo2",
-                    "titulo": "Colillo OST 2",
-                    "audio": "PON_EL_LINK_AQUI"
+                    "titulo": "Colillo OST - Ambiente o mal",
+                    "audio": "https://archive.org/download/ColilloOST/ambiente%20o%20mal.ogg"
                 },
                 {
                     "id": "colillo3",
-                    "titulo": "Colillo OST 3",
-                    "audio": "PON_EL_LINK_AQUI"
+                    "titulo": "Colillo OST - El pasillo",
+                    "audio": "https://archive.org/download/ColilloOST/el%20pasillo.mp3"
                 },
                 {
                     "id": "colillo4",
-                    "titulo": "Colillo OST 4",
-                    "audio": "PON_EL_LINK_AQUI"
+                    "titulo": "Colillo OST - Eso es malo",
+                    "audio": "https://archive.org/download/ColilloOST/Eso%20es%20malo..mp3"
                 },
                 {
                     "id": "colillo5",
-                    "titulo": "Colillo OST 5",
-                    "audio": "PON_EL_LINK_AQUI"
+                    "titulo": "Colillo OST - Que mal a construir",
+                    "audio": "https://archive.org/download/ColilloOST/que%20mal%20a%20construir.mp3"
                 },
                 {
                     "id": "colillo6",
-                    "titulo": "Colillo OST 6",
-                    "audio": "PON_EL_LINK_AQUI"
+                    "titulo": "Colillo OST - El señor de la capucha morada",
+                    "audio": "https://archive.org/download/ColilloOST/el%20se%C3%B1or%20de%20la%20capucha%20morada.mp3"
                 }
             ]
         },
