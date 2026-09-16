@@ -1,102 +1,128 @@
-{
-    "series": [
-        {
-            "titulo": "Colillo",
-            "descripcion": "Esta es la vida de Colillo y su amigo Matito!",
-            "portada": "https://github.com/DonPaloPuppeteer/PaloPlay/blob/main/colillo.jpg?raw=true",
-            "episodios": [
-                {
-                    "titulo": "Episodio 1",
-                    "video": "https://archive.org/download/la-consola-episodio-1-temporada-1/La%20Consola%20Episodio%201%20Temporada%201.mp4"
-                },
-                {
-                    "titulo": "Episodio 2",
-                    "video": "https://archive.org/download/el-senor-de-la-capucha-morada-episodio-2-temporada-1/El%20Se%C3%B1or%20de%20la%20Capucha%20Morada%20Episodio%202%20Temporada%201.mp4"
-                },
-                {
-                    "titulo": "Episodio 3",
-                    "video": "https://archive.org/download/el-zorro-episodio-3-temporada-1/El%20Zorro%20Episodio%203%20Temporada%201.mp4"
-                },
-                {
-                    "titulo": "Episodio 4",
-                    "video": "https://archive.org/download/la-tortuga-episodio-4-temporada-1/La%20Tortuga%20Episodio%204%20Temporada%201.mp4"
-                },
-                {
-                    "titulo": "Episodio 5",
-                    "video": "https://archive.org/download/la-cancion-episodio-5-temporada-1/La%20Cancion%20Episodio%205%20Temporada%201.mp4"
-                },
-                {
-                    "titulo": "Episodio 6",
-                    "video": "https://archive.org/download/espacio-episodio-6-temporada-1/Espacio%20Episodio%206%20Temporada%201.mp4"
-                },
-                {
-                    "titulo": "Episodio 7",
-                    "video": "https://archive.org/download/la-magia-episodio-7-temporada-1/La%20Magia%20Episodio%207%20Temporada%201.mp4"
-                }
-            ]
-        },
-        {
-            "titulo": "Pingüinos",
-            "descripcion": "Una serie sobre unos pingüinos y sus aventuras.",
-            "portada": "https://github.com/DonPaloPuppeteer/PaloPlay/blob/main/pinguinos.jpg?raw=true",
-            "episodios": [
-                {
-                    "titulo": "Episodio 1",
-                    "video": "https://archive.org/download/pinguinoslol/p1.mp4"
-                }
-            ]
-        },
-        {
-            "titulo": "Las locas aventuras de Sammy y Pichuca",
-            "descripcion": "¡Sigue a Sammy y Pichuca en sus alocadas aventuras!",
-            "portada": "https://raw.githubusercontent.com/DonPaloPuppeteer/PaloPlay/refs/heads/main/54%20sin%20t%C3%ADtulo_20260915170518.jpg",
-            "episodios": [
-                {
-                    "titulo": "T1 E1 - Negocio Hermoso",
-                    "video": "https://archive.org/download/episodio-1-temporada-1-negocio-hermoso/Episodio%201%20Temporada%201%20Negocio%20Hermoso.mp4"
-                },
-                {
-                    "titulo": "T1 E2 - El Único Enemigo Tuyo Aquí Eres Tú",
-                    "video": "https://archive.org/download/episodio-2-temporada-1-el-unico-enemigo-tuyo-aqui-eres-tu/Episodio%202%20Temporada%201%20El%20Unico%20Enemigo%20Tuyo%20Aqui%20Eres%20Tu.mp4"
-                },
-                {
-                    "titulo": "T1 E3 - Dulce o Apocalipsis",
-                    "video": "https://archive.org/download/episodio-3-temporada-1-dulce-o-apocalipsis/Episodio%203%20Temporada%201%20Dulce%20o%20Apocalipsis.mp4"
-                },
-                {
-                    "titulo": "T1 E4 - Letreros",
-                    "video": "https://archive.org/download/episodio-4-temporada-1-letreros/Episodio%204%20Temporada%201%20Letreros.mp4"
-                },
-                {
-                    "titulo": "T1 E5 - Una Navidad de Baile",
-                    "video": "https://archive.org/download/episodio-5-temporada-1-una-navidad-de-baile/Episodio%205%20Temporada%201%20Una%20Navidad%20de%20Baile.mp4"
-                },
-                {
-                    "titulo": "T1 E6 - Venta de Garage",
-                    "video": "https://archive.org/download/episodio-6-temporada-1-venta-de-garage/Episodio%206%20Temporada%201%20Venta%20de%20Garage.mp4"
-                },
-                {
-                    "titulo": "T1 E7 - El Plan De Juguetelia",
-                    "video": "https://archive.org/download/episodio-7-temporada-1-el-plan-de-juguetelia/Episodio%207%20Temporada%201%20El%20Plan%20De%20Juguetelia.mp4"
-                },
-                {
-                    "titulo": "T1 E8 - La Normalidad es Aburrida",
-                    "video": "https://archive.org/download/episodio-8-temporada-1-la-normalidad-es-aburrida/Episodio%208%20Temporada%201%20LA%20NORMALIDAD%20ES%20ABURRIDA.mp4"
-                },
-                {
-                    "titulo": "T2 E1 - La Fan Loca",
-                    "video": "https://archive.org/download/episodio-1-temporada-2-la-fan-loca/Episodio%201%20Temporada%202%20La%20Fan%20Loca.mp4"
-                },
-                {
-                    "titulo": "T2 E2 - El Robotizado",
-                    "video": "https://archive.org/download/episodio-2-temporada-2-el-robotizado/Episodio%202%20Temporada%202%20El%20Robotizado.mp4"
-                },
-                {
-                    "titulo": "T2 E3 - Memoria Muerta",
-                    "video": "https://archive.org/download/Lladsypmemoriamuerta/YTDown.com_YouTube_Las-Locas-Aventuras-De-Sammy-Y-Pichuca-T_Media_8j-wEEd4kjQ_002_720p.mp4"
-                }
-            ]
-        }
-    ],
-    "musica": []
-                }
+"musica": [
+    {
+        "tipo": "album",
+        "titulo": "Colillo OST",
+        "artista": "Palo",
+        "portada": "https://dummyimage.com/200x200/1db954/fff&text=Colillo+OST",
+        "canciones": [
+            {
+                "id": "colillo1",
+                "titulo": "Colillo OST 1",
+                "audio": "PON_EL_LINK_AQUI"
+            },
+            {
+                "id": "colillo2",
+                "titulo": "Colillo OST 2",
+                "audio": "PON_EL_LINK_AQUI"
+            },
+            {
+                "id": "colillo3",
+                "titulo": "Colillo OST 3",
+                "audio": "PON_EL_LINK_AQUI"
+            },
+            {
+                "id": "colillo4",
+                "titulo": "Colillo OST 4",
+                "audio": "PON_EL_LINK_AQUI"
+            },
+            {
+                "id": "colillo5",
+                "titulo": "Colillo OST 5",
+                "audio": "PON_EL_LINK_AQUI"
+            },
+            {
+                "id": "colillo6",
+                "titulo": "Colillo OST 6",
+                "audio": "PON_EL_LINK_AQUI"
+            }
+        ]
+    },
+    {
+        "tipo": "album",
+        "titulo": "Ritmoandante",
+        "artista": "Palo",
+        "portada": "https://dummyimage.com/200x200/e53935/fff&text=Ritmoandante",
+        "canciones": [
+            {
+                "id": "ritmoandante1",
+                "titulo": "Ritmoandante - Tutorial",
+                "audio": "https://archive.org/download/rao_20260916/03_Tutorial.mp3"
+            },
+            {
+                "id": "ritmoandante2",
+                "titulo": "Ritmoandante - Pirate",
+                "audio": "https://archive.org/download/rao_20260916/04_Pirate.mp3"
+            },
+            {
+                "id": "ritmoandante3",
+                "titulo": "Ritmoandante - Tic-Toc",
+                "audio": "https://archive.org/download/rao_20260916/05_TicToc.mp3"
+            },
+            {
+                "id": "ritmoandante4",
+                "titulo": "Ritmoandante - Bonk",
+                "audio": "https://archive.org/download/rao_20260916/06_Bonk.mp3"
+            },
+            {
+                "id": "ritmoandante5",
+                "titulo": "Ritmoandante - Cheese",
+                "audio": "https://archive.org/download/rao_20260916/07_Cheese.mp3"
+            },
+            {
+                "id": "ritmoandante6",
+                "titulo": "Ritmoandante - NewPoint",
+                "audio": "https://archive.org/download/rao_20260916/08_NewPoint.mp3"
+            },
+            {
+                "id": "ritmoandante7",
+                "titulo": "Ritmoandante - Helio",
+                "audio": "https://archive.org/download/rao_20260916/09_Helio.mp3"
+            },
+            {
+                "id": "ritmoandante8",
+                "titulo": "Ritmoandante - Long",
+                "audio": "https://archive.org/download/rao_20260916/10_Long.mp3"
+            },
+            {
+                "id": "ritmoandante9",
+                "titulo": "Ritmoandante - Decadence",
+                "audio": "https://archive.org/download/rao_20260916/11_Decadence.mp3"
+            },
+            {
+                "id": "ritmoandante10",
+                "titulo": "Ritmoandante - Fishing",
+                "audio": "https://archive.org/download/rao_20260916/12_Fishing.mp3"
+            },
+            {
+                "id": "ritmoandante11",
+                "titulo": "Ritmoandante - JumpBump",
+                "audio": "https://archive.org/download/rao_20260916/13_JumpBump.mp3"
+            },
+            {
+                "id": "ritmoandante12",
+                "titulo": "Ritmoandante - Magic",
+                "audio": "https://archive.org/download/rao_20260916/14_Magic.mp3"
+            },
+            {
+                "id": "ritmoandante13",
+                "titulo": "Ritmoandante - Octopus",
+                "audio": "https://archive.org/download/rao_20260916/15_Octopus.mp3"
+            },
+            {
+                "id": "ritmoandante14",
+                "titulo": "Ritmoandante - HelloWin",
+                "audio": "https://archive.org/download/rao_20260916/16_HelloWin.mp3"
+            },
+            {
+                "id": "ritmoandante15",
+                "titulo": "Ritmoandante - Step",
+                "audio": "https://archive.org/download/rao_20260916/17_Step.mp3"
+            },
+            {
+                "id": "ritmoandante16",
+                "titulo": "Ritmoandante - Dog",
+                "audio": "https://archive.org/download/rao_20260916/18_Dog.mp3"
+            }
+        ]
+    }
+]
