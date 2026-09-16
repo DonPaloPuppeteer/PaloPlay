@@ -102,7 +102,7 @@
         {
             "tipo": "album",
             "titulo": "Colillo OST",
-            "artista": "Palo",
+            "artista": "DonPalo",
             "portada": "https://github.com/DonPaloPuppeteer/PaloPlay/blob/main/Colilloost.png?raw=true",
             "canciones": [
                 {
@@ -140,7 +140,7 @@
         {
             "tipo": "album",
             "titulo": "Ritmoandante",
-            "artista": "Palo",
+            "artista": "DonPalo",
             "portada": "https://github.com/DonPaloPuppeteer/PaloPlay/blob/main/ritmoandantecaratula.png?raw=true",
             "canciones": [
                 {
