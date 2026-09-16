@@ -1,4 +1,3 @@
-```json
 {
     "series": [
         {
@@ -70,11 +69,11 @@
                 },
                 {
                     "titulo": "T1 E5 - Una Navidad de Baile",
-                    "video": "https://archive.org/download/episodio-5-temporada-1-una-navidad-de-baile/Episodio%205%20Temporada%201%20Una%20Navidad%20De%20Baile.mp4"
+                    "video": "https://archive.org/download/episodio-5-temporada-1-una-navidad-de-baile/Episodio%205%20Temporada%201%20Una%20Navidad%20de%20Baile.mp4"
                 },
                 {
                     "titulo": "T1 E6 - Venta de Garage",
-                    "video": "https://archive.org/download/episodio-6-temporada-1-venta-de-garage/Episodio%206%20Temporada%201%20Venta%20De%20Garage.mp4"
+                    "video": "https://archive.org/download/episodio-6-temporada-1-venta-de-garage/Episodio%206%20Temporada%201%20Venta%20de%20Garage.mp4"
                 },
                 {
                     "titulo": "T1 E7 - El Plan De Juguetelia",
@@ -228,4 +227,3 @@
         }
     ]
 }
-```
