@@ -103,7 +103,7 @@
             "tipo": "album",
             "titulo": "Colillo OST",
             "artista": "Palo",
-            "portada": "https://dummyimage.com/200x200/1db954/fff&text=Colillo+OST",
+            "portada": "https://github.com/DonPaloPuppeteer/PaloPlay/blob/main/Colilloost.png?raw=true",
             "canciones": [
                 {
                     "id": "colillo1",
@@ -141,7 +141,7 @@
             "tipo": "album",
             "titulo": "Ritmoandante",
             "artista": "Palo",
-            "portada": "https://dummyimage.com/200x200/e53935/fff&text=Ritmoandante",
+            "portada": "https://github.com/DonPaloPuppeteer/PaloPlay/blob/main/ritmoandantecaratula.png?raw=true",
             "canciones": [
                 {
                     "id": "ritmoandante1",
